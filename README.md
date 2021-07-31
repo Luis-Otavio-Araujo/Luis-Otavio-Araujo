@@ -1,7 +1,7 @@
 ### Olá, eu sou Luís Otávio!!!
  <div>
   <a href="https://github.com/Luis-Otavio-Araujo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luis-Otavio-Araujo&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luis-Otavio-Araujo&show_icons=true&theme=gotham&include_all_commits=false&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Otavio-Araujo&layout=compact&langs_count=7&theme=gotham"/>
 
 ## 
